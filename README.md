@@ -1,6 +1,7 @@
 我的个人网站:
+(更新频率高)个人网站:  https://netp888.mysxl.cn   中国大陆可访问(访问速度快)
+(更新频率低)个人网站:  https://netp888.github.io   外国可访问(访问速度快),中国大陆可访问(第一次访问会出错,刷新一下就行了)
+(更新频率低)个人网站:  https://netp888.mystrikingly.com/   外国可访问(访问速度快),中国大陆可访问(访问速度快,但在中国大陆无法显示此页面)
 
-(更新频率高) https://netp888.mysxl.cn
-(更新频率低) https://netp888.github.io/index.html
 
-2025/2/11 Update
+2025/2/28 Update
